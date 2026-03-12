@@ -175,11 +175,9 @@ pause
 ```
 
 ## OUTPUT
-![Uploading Screenshot 2026-03-12 165746.png…]()
-
-
+<img width="581" height="493" alt="Screenshot 2026-03-12 165746" src="https://github.com/user-attachments/assets/a2e7edc9-3728-498b-b55b-e55a0092fe4b" />
 
 # RESULT:
 The commands/batch files are executed successfully.
-The commands/batch files are executed successfully.
+
 
